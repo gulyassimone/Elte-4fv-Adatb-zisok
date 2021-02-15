@@ -1,0 +1,1 @@
+select user,sysdate, name from v$database;
